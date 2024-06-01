@@ -1,0 +1,17 @@
+c:\users\josh\documents\visual studio 2010\Projects\Trip\Trip\bin\Debug\Trip.exe
+c:\users\josh\documents\visual studio 2010\Projects\Trip\Trip\bin\Debug\Trip.pdb
+c:\users\josh\documents\visual studio 2010\Projects\Trip\Trip\bin\Debug\Trip.xml
+c:\users\josh\documents\visual studio 2010\Projects\Trip\Trip\obj\x86\Debug\Trip.Form1.resources
+c:\users\josh\documents\visual studio 2010\Projects\Trip\Trip\obj\x86\Debug\Trip.Resources.resources
+c:\users\josh\documents\visual studio 2010\Projects\Trip\Trip\obj\x86\Debug\Trip.vbproj.GenerateResource.Cache
+c:\users\josh\documents\visual studio 2010\Projects\Trip\Trip\obj\x86\Debug\Trip.exe
+c:\users\josh\documents\visual studio 2010\Projects\Trip\Trip\obj\x86\Debug\Trip.xml
+c:\users\josh\documents\visual studio 2010\Projects\Trip\Trip\obj\x86\Debug\Trip.pdb
+c:\users\josh\documents\visual studio 2010\Projects\Trip\Trip\obj\x86\Debug\Trip.Form2.resources
+c:\users\josh\documents\visual studio 2010\Projects\Trip\Trip\obj\x86\Debug\Trip.Form3.resources
+c:\users\josh\documents\visual studio 2010\Projects\Trip\Trip\obj\x86\Debug\Trip.Form4.resources
+c:\users\josh\documents\visual studio 2010\Projects\Trip\Trip\obj\x86\Debug\Trip.Form5.resources
+c:\users\josh\documents\visual studio 2010\Projects\Trip\Trip\obj\x86\Debug\Trip.Form6.resources
+C:\Users\josh\documents\visual studio 2010\Projects\Trip\Trip\obj\x86\Debug\Trip.Form7.resources
+C:\Users\josh\documents\visual studio 2010\Projects\Trip\Trip\bin\Debug\MySql.Data.dll
+C:\Users\josh\documents\visual studio 2010\Projects\Trip\Trip\obj\x86\Debug\Trip.vbprojResolveAssemblyReference.cache
